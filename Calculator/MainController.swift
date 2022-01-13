@@ -16,7 +16,6 @@ class MainController: UIViewController {
         NavigationItem.title = "首頁"
     }
     
-    
     @IBOutlet weak var Name: UITextField!
     @IBOutlet weak var Button: UIButton!
     @IBOutlet weak var NavigationItem: UINavigationItem!
